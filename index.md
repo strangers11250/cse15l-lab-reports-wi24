@@ -1,7 +1,7 @@
 # CSE 15L Lab Reports
 ## Lab 1
 ### cd
-cd stands for <ins>"Change Directory"<\ins>
+cd stands for <ins>"Change Directory"</ins>
 
 - When using cd with no arguments, the working directory is set to the root directory.
 ```
