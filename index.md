@@ -63,7 +63,7 @@ Definitely not an error, probably a specified use of cat command.
     [user@sahara ~/lecture1]$ cat ./messages
     cat: ./messages: Is a directory
 ```
-For a slip of a second I expected that it automatically concatenate all files under that directory. The fact that it creates an error make sense, since it is impossible to the content of a directory.
+For a split of a second I expected that it automatically concatenate all files under that directory. The fact that it creates an error make sense, since it is impossible to the content of a directory.
 
 - When using cat with a path to a file as an argument, it prints out the content of that file.
 ```
